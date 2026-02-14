@@ -1,2 +1,3 @@
-# data-engineering-python
-Hands-on practice with Python and data engineering concepts.
+# data-engineering-practice
+Hands-on practice with Python, SQL, and data engineering concepts.
+
